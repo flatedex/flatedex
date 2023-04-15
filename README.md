@@ -20,6 +20,9 @@ Currently i'm looking for job as **backend .NET developer**. CV on both english 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Some additional info
+- Algoritmic tasks usually done on [CodeWars](https://www.codewars.com/users/flatedex)
+
 ## Contact
 - E-mail: ilyas.zakirov.404@mail.ru
 - Telegram: [@FlateD](https://t.me/flated)
