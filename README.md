@@ -1,6 +1,6 @@
 # Hi there 👋. I'm Ilyas Zakirov.
 
-Currently i'm looking for job as **backend .NET developer**. CV on both english and russian will be added just soon.
+Currently i'm looking for а job as **backend .NET developer**. CV on both english and russian will be added just soon.
 
 - Usually my projects were written on **WPF** or **ASP.NET MVC**
 - Have a look at my projects as a portfolio bellow in a pinned section!
