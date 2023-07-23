@@ -7,13 +7,16 @@ Currently i'm looking for а job as **backend .NET developer**. CV on both engli
 - You can contact me via e-mail: (ilyas.zakirov.404@mail.ru). Or Telegram: ([@FlateD](https://t.me/flated))
 
 ## My current stack
+![Golang](https://img.shields.io/badge/-Go-%2342bcf5?style=for-the-badge&logo=Go&logoColor=blue&labelColor=%2342bcf5)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET-9cf?style=for-the-badge&logo=dotnet&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge&logo=mssql&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-blue?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Technologies I have also used
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MSSQL](https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge&logo=mssql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Atlassian Jira](https://img.shields.io/badge/-Jira-9cf?style=for-the-badge&logo=jira&logoColor=white)
