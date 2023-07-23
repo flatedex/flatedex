@@ -1,9 +1,9 @@
 # Hi there 👋. I'm Ilyas Zakirov.
 
-Currently i'm looking for а job as **backend .NET developer**. CV on both english and russian will be added just soon.
+Currently i'm looking for а job as **web backend developer**. CV on both english and russian will be added just soon.
 
 - Usually my projects were written on **WPF** or **ASP.NET MVC**
-- Have a look at my projects as a portfolio bellow in a pinned section!
+- Have a look at my projects as a portfolio below in a pinned section!
 - You can contact me via e-mail: (ilyas.zakirov.404@mail.ru). Or Telegram: ([@FlateD](https://t.me/flated))
 
 ## My current stack
