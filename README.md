@@ -16,6 +16,7 @@ Currently i'm looking for а job as **backend .NET developer**. CV on both engli
 ## Technologies I have also used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=NodeJavaScript&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge&logo=mssql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
