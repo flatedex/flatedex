@@ -26,6 +26,7 @@ Currently i'm looking for а job as **web backend developer**. CV on both englis
 
 ## Some additional info
 - Algoritmic tasks usually done on [CodeWars](https://www.codewars.com/users/flatedex)
+![CodeWars](https://www.codewars.com/users/flatedex/badges/large)
 
 ## Contact
 - E-mail: ilyas.zakirov.404@mail.ru
