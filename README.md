@@ -2,19 +2,19 @@
 
 Currently i'm looking for а job as **web backend developer**. CV on both english and russian will be added just soon.
 
-- Usually my projects were written on **WPF** or **ASP.NET MVC**
+- Usually my projects were written on **WPF** or **JavaScript**
 - Have a look at my projects as a portfolio below in a pinned section!
 - You can contact me via e-mail: (ilyas.zakirov.404@mail.ru). Or Telegram: ([@FlateD](https://t.me/flated))
 
 ## My current stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-%2342bcf5?style=for-the-badge&logo=Go&logoColor=blue&labelColor=%2342bcf5)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET-9cf?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Technologies I have also used
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET-9cf?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=NodeJavaScript&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge&logo=mssql&logoColor=white)
