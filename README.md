@@ -2,7 +2,7 @@
 
 Currently i'm looking for а job as **web backend developer**. CV on both english and russian will be added just soon.
 
-- Usually my projects were written on **WPF** or **JavaScript**
+- Usually my projects were written on **JavaScript** or **WPF**
 - Have a look at my projects as a portfolio below in a pinned section!
 - You can contact me via e-mail: (ilyas.zakirov.404@mail.ru). Or Telegram: ([@FlateD](https://t.me/flated))
 
