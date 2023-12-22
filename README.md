@@ -7,7 +7,7 @@ Currently i'm looking for а job as **web backend developer**. CV on both englis
 - You can contact me via e-mail: (ilyas.zakirov.404@mail.ru). Or Telegram: ([@FlateD](https://t.me/flated))
 
 ## My current stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-%2342bcf5?style=for-the-badge&logo=Go&logoColor=blue&labelColor=%2342bcf5)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white)
